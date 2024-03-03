@@ -1,10 +1,14 @@
 <h1>⚫️ CS20 ⚫️ Ordinals on the Credits.com Blockchain </h1>
 &nbsp;
 
-<i></i>Version 0.2</i>
+<i></i>Version 0.3</i>
 &nbsp;
 
 This is a concept that aims to be the beginning for issuing ordinals inscriptions on the Credits Blockchain. Currently, there are several ordinals networks (BRC20, DRC20, LRC20, BSV20) where data is transferred into the blockchain through json and base64 inscriptions. 
+&nbsp;
+
+&nbsp;
+- <b>Helloworld Ordinals Credits</b> - <a href="https://monitor.credits.com/CreditsNetwork/transaction/125610051.1" target="_blank">Block 125610051.1</a>
 &nbsp;
 
 &nbsp;
