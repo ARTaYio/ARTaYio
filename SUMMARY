@@ -1,0 +1,22 @@
+Summary CS20 Ordinals
+Version 0.1
+
+
+Protocol based 
+
+1. Only inscriptions send to CS burnaddress are valid
+        x1. This way every inscription will take CS out of roulation (compensation POW adjustment)
+        x2. Only indexing of TX send to burnaddress, not all TX made on CS chain
+        x3. 
+Platform based
+
+1. Inscribe platform
+  a. Simple one-page-website
+    I. Mint tokens page - Single mint or bulk mint a CS20 token
+        x1. Single mint option, make a single CS20 mint
+        X2. Bulk mint option, make up to 20 bulk mints at the time
+        Y1. Fees for inscribing > 0,0xxx CS (<> 100 mints = 1$)
+        Y2. Only 
+    II. Mint SNS page - Single mint SNS domains, choose .CS or .Domain name (like normal hosting)
+    III. Mint CSmap page - Single mint CSmap
+
