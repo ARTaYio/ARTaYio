@@ -2,13 +2,21 @@ Summary CS20 Ordinals
 Version 0.1
 
 
-Protocol based 
+** Protocol based **
 
 1. Only inscriptions send to CS burnaddress are valid
         x1. This way every inscription will take CS out of roulation (compensation POW adjustment)
         x2. Only indexing of TX send to burnaddress, not all TX made on CS chain
-        x3. 
-Platform based
+2. CS20 wallet
+        x1. Options to transfer/list CS20 tokens
+        x2. Options to transfer/list SNS domains
+        x3. Options to transfer/list CSmap domains
+3. Decentral exchange
+        x1. Option to list all p:list 
+
+
+
+** Platform based **
 
 1. Inscribe platform
   a. Simple one-page-website
